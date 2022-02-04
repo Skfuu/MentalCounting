@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MentalCounting</string>
+    <string name="title">Mental Counting</string>
+    <string name="play_button">Play the game</string>
+    <string name="score_button">Display the scores</string>
+    <string name="submit_button">Submit</string>
+    <string name="answer">Enter a value</string>
+    <string name="home">Go to the main page</string>
+    <string name="number_calculations_text">"Number of calculations done : "</string>
+    <string name="winrate_text">"Winrate :  "</string>
+    <string name="last_calculation_text">"Last calculation done : "</string>
+    <string name="last_calculation_result_text">"Result of the last calculation : "</string>
+    <string name="return_button">Return to the last page</string>
+    <string name="GameMenuScorePageButton">See scores</string>
+    <string name="GameMenuScoreEraseButton">Erase scores</string>
+    <string name="GameMenuScoreEraseButtonText">Scores erased</string>
+</resources>
