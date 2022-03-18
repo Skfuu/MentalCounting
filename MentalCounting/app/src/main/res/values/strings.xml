@@ -6,18 +6,18 @@
     <string name="score_button">Afficher les scores</string>
     <string name="submit_button">Envoyer</string>
     <string name="answer">Entrez une valeur</string>
-    <string name="calculation" translatable="false">X * Y</string>
+    <string name="calculation" translatable="false">%s</string>
     <string name="answer_wrong" translatable="false">Incorrect !</string>
     <string name="answer_right" translatable="false">Correct !</string>
     <string name="home">Retour à la page menu</string>
     <string name="number_calculations_text">Nombre d\'opérations effectuées : </string>
-    <string name="number_calculations" translatable="false">10</string>
+    <string name="number_calculations" translatable="false">%d</string>
     <string name="winrate_text">Pourcentage de réussite : </string>
-    <string name="winrate" translatable="false">69</string>
+    <string name="winrate" translatable="false">%s</string>
     <string name="last_calculation_text">Dernière opération efectuée : </string>
-    <string name="last_calculation" translatable="false">10 + 8</string>
+    <string name="last_calculation" translatable="false">%s</string>
     <string name="last_calculation_result_text">Résultat de la dernière opération : </string>
-    <string name="last_calculation_result" translatable="false">18</string>
+    <string name="last_calculation_result" translatable="false">%d</string>
     <string name="return_button">Retour à la page précédente</string>
     <string name="GameMenuScorePageButton">Voir scores</string>
     <string name="GameMenuScoreEraseButton">Effacer les scores</string>
